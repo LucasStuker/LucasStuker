@@ -1,16 +1,20 @@
-### Hi there 👋
+### Olá, me chamo Lucas Stuker
 
-<!--
-**LucasStuker/LucasStuker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou começando a estudar programação na escola DNC, já possuo conhecimento avançado em lógica de programação e programação em C. 
+Acadêmico de Analise e desenvolvimento de sistemas e viciado em aprender e desvendar códigos. 
 
-Here are some ideas to get you started:
+Estudando JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div style = "Display: inline_block"> <br>
+    <img align ="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img align ="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+    <img align ="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+    <img align ="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+                        
+ </div>
+ 
+ ##
+ 
+ <div>
+  <a href="https://www.linkedin.com/in/lucas-stuker-06bb0a148/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+          
