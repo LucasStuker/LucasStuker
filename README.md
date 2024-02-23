@@ -1,9 +1,5 @@
 ### Olá, me chamo Lucas Stuker
 
-Estou começando a estudar programação na escola DNC, já possuo conhecimento avançado em lógica de programação e programação em C. 
-Acadêmico de Analise e desenvolvimento de sistemas e viciado em aprender e desvendar códigos. 
-
-Estudando JavaScript
 
  <div style = "Display: inline_block"> <br>
     <img align ="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
