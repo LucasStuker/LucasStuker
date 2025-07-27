@@ -1,8 +1,5 @@
 # Olá, eu sou o Lucas Stuker! 👋
 
-<a href="https://www.linkedin.com/in/lucas-stuker-2092a014a/">
-  <img align="left" width="450px" src="http://googleusercontent.com/file_content/8" />
-</a>
 
 Desenvolvedor focado em construir soluções práticas e eficientes que conectam sistemas e simplificam processos.
 
