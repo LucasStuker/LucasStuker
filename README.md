@@ -6,7 +6,6 @@
 
 Desenvolvedor focado em construir soluções práticas e eficientes que conectam sistemas e simplificam processos.
 
-Residente de Itapema, Santa Catarina, sou um entusiasta da tecnologia e apaixonado por aprender. Quando não estou codando, provavelmente estou explorando as belezas da costa catarinense ou revendo "Questão de Tempo" com minha incrível esposa, Aline. ❤️
 
 <br>
 
