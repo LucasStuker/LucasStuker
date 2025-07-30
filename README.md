@@ -26,7 +26,7 @@ Desenvolvedor focado em construir soluções práticas e eficientes que conectam
 
 -   **Backend e Integrações:** Criando e mantendo scripts de integração com **Node.js**, com foco especial na automação de processos para a plataforma **Bitrix24**.
 -   **Frontend:** Atualmente possuo dominio em **React** e estou aprimorando minhas habilidades em **Angular**, desenvolvendo projetos pessoais para solidificar o conhecimento.
--   **Frontend:**: Possuo dominio em **Node.JS**, no framework **Express**. Além disso, possuo proeficiência em C#
+-   **Backend:**: Possuo dominio em **Node.JS**, no framework **Express**. Além disso, possuo proeficiência em C#
 
 <br>
 
