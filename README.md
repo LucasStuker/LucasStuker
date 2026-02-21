@@ -14,7 +14,6 @@ Atualmente trabalhando na modernização de arquiteturas em ambiente governament
 
 ### ⚡ Atualmente
 
-* 🔨 Refatorando legados (Symfony) para arquiteturas modernas.
 * 📊 Implementando stacks de observabilidade para monitoramento real-time.
 * 📚 Pós-graduando em **Cloud Computing**.
 .
